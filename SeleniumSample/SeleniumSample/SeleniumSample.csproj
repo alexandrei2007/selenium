@@ -59,6 +59,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ScreenshotTests.cs" />
     <Compile Include="HomeTests.cs" />
     <Compile Include="Infrastructure\BaseClass.cs" />
     <Compile Include="Infrastructure\Configuration.cs" />
